@@ -30,11 +30,11 @@ BeatStream is a simple and interactive **React-based music player** where users 
    ```bash
    git clone https://github.com/raunakmallick18/React-Music-Player-App.git
    cd React-Music-Player-App
-2. **Install dependencies**
+2. **Install dependencies** –
    npm install
-3. **Start the development server**
+3. **Start the development server** –
    npm run dev
-4. **Open in browser**
+4. **Open in browser** –
    http://localhost:5173
 
 
