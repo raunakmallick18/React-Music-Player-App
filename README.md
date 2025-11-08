@@ -37,5 +37,12 @@ BeatStream is a simple and interactive **React-based music player** where users 
 4. **Open in browser** –
    http://localhost:5173
 
+---
+
+## 📷 Screenshot
+
+![GitHub Logo](https://github.com/raunakmallick18/React-Music-Player-App/blob/main/2d73d7a4-a41f-4f34-8b68-a4b17903c55e.png)
+![GitHub Logo](https://github.com/raunakmallick18/React-Music-Player-App/blob/main/cc6863b6-5260-4789-9c49-2030dafa3e55.png)
+
 
 
